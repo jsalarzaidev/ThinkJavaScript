@@ -34,3 +34,4 @@ return result
 };
 
 console.log(power(2,4));
+
